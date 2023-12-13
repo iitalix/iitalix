@@ -16,7 +16,7 @@ Here's a couple of my projects:
   comment on photos, create albums, and mark your Favorites.
 
 When I'm not learning code, I'm creating content playing video games.
-Hang out with me on [Twitch: iitalix](https://www.twitch.tv/iitalix)
+Hang out with me on [Twitch](https://www.twitch.tv/iitalix)
 
 https://github.com/iitalix/iitalix/assets/115580381/22b82234-bdfd-4997-97e5-e62145df68a4
 
