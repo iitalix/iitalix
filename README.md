@@ -1,12 +1,14 @@
 ![Header](./github-header-image.png)
 
-I'm an experienced I.T. professional looking to pivot into
-a new role as a Software Developer. I am passionate about
-technology and interested in designing and creating.
+Software Developer and seasoned IT professional interested in ML/AI and cloud technologies.
 
-Let's build something fun together!
+Currently strengthening my Python/JavaScript skills while learning TensorFlow, GraphQL, and
+pursuing an AWS certification. Playing with my cats and binging dating reality-tv shows in
+my spare time.
 
-Here's a couple of my projects:
+Gamer. 👾 Foodie. 🍜 Music Lover. 🎶
+
+Checkout a couple of my projects!
 
   [Cybervana](https://cybervana.onrender.com) is an e-commerce site
   themed off my favorite video game "Cyberpunk 2077."
@@ -15,8 +17,8 @@ Here's a couple of my projects:
   a photo-sharing site similar to Flickr, which allows you to share and
   comment on photos, create albums, and mark your Favorites.
 
-When I'm not learning code, I'm creating content playing video games.
-Hang out with me on [Twitch](https://www.twitch.tv/iitalix)
+I also livestream video games, but I've been super busy!
+Hang out with me on [Twitch!](https://www.twitch.tv/iitalix)
 
 https://github.com/iitalix/iitalix/assets/115580381/22b82234-bdfd-4997-97e5-e62145df68a4
 
