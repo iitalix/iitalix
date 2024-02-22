@@ -1,6 +1,6 @@
 ![Header](./github-header-image.png)
 
-Software Developer and seasoned IT professional interested in ML/AI and cloud technologies.
+Software Developer and seasoned IT professional skilled in JavaScript, Python, and modern frameworks such as React and Flask. Demonstrated ability to solve problems, learn quickly, and work collaboratively in Agile environments.
 
 Currently strengthening my Python/JavaScript skills while learning TensorFlow, GraphQL, and
 pursuing an AWS certification. Playing with my cats and binging dating reality-tv shows in
