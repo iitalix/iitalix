@@ -2,8 +2,7 @@
 
 Software Developer and seasoned IT professional skilled in JavaScript, Python, and modern frameworks such as React and Flask. Demonstrated ability to solve problems, learn quickly, and work collaboratively in Agile environments.
 
-Currently strengthening my Python/JavaScript skills while learning TensorFlow, GraphQL, and
-pursuing an AWS certification. Playing with my cats and binging dating reality-tv shows in
+Currently assisting the Product Support Team at Pomp Beauty, working with GraphQL, Material UI, and TypeScript. Playing with my cats and binging dating reality-tv shows in
 my spare time.
 
 Gamer. 👾 Foodie. 🍜 Music Lover. 🎶
