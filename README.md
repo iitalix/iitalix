@@ -1,9 +1,8 @@
 ![Header](./github-header-image.png)
 
-Software Developer and seasoned IT professional skilled in JavaScript, Python, and modern frameworks such as React and Flask. Demonstrated ability to solve problems, learn quickly, and work collaboratively in Agile environments.
+Software Developer and seasoned IT professional skilled in JavaScript, Python, and modern frameworks such as React and Flask. Demonstrated ability to communicate articulately, collaborate effectively on Agile project teams, and over-deliver technical solutions in customer-facing roles. Lifelong learner on a journey to level-up.
 
-Currently assisting the Product Support Team at Pomp Beauty, working with GraphQL, Material UI, and TypeScript. Playing with my cats and binging dating reality-tv shows in
-my spare time.
+Currently sharpening my skills on TypeScript, Playwright, and DS&A. 👨🏽‍💻 Picked up DJ'ing as a new hobby. 💿 💿
 
 Gamer. 👾 Foodie. 🍜 Music Lover. 🎶
 
